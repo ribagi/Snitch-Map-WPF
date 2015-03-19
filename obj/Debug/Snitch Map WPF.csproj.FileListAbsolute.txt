@@ -1,0 +1,13 @@
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\bin\Debug\Snitch Map WPF.exe.config
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\bin\Debug\Snitch Map WPF.exe
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\bin\Debug\Snitch Map WPF.pdb
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\obj\Debug\Snitch Map WPF.csprojResolveAssemblyReference.cache
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\obj\Debug\MainWindow.baml
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\obj\Debug\MainWindow.g.cs
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\obj\Debug\App.g.cs
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\obj\Debug\Snitch Map WPF_MarkupCompile.cache
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\obj\Debug\Snitch Map WPF.g.resources
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\obj\Debug\Snitch_Map_WPF.Properties.Resources.resources
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\obj\Debug\Snitch Map WPF.csproj.GenerateResource.Cache
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\obj\Debug\Snitch Map WPF.exe
+c:\users\gabe\documents\visual studio 2013\Projects\Snitch Map WPF\Snitch Map WPF\obj\Debug\Snitch Map WPF.pdb
